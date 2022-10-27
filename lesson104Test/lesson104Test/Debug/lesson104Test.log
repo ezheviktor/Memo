@@ -1,0 +1,3 @@
+﻿  lesson104Test.cpp
+C:\Users\User\source\repos\lesson104Test\lesson104Test\lesson104Test.cpp(62): warning C4715: getArithmeticFcn: значение возвращается не при всех путях выполнения
+  lesson104Test.vcxproj -> C:\Users\User\source\repos\lesson104Test\Debug\lesson104Test.exe

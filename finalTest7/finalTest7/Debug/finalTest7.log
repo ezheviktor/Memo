@@ -1,0 +1,4 @@
+﻿  finalTest7.cpp
+C:\Users\User\source\repos\finalTest7\finalTest7\finalTest7.cpp(63): warning C4715: binarySearch2: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\finalTest7\finalTest7\finalTest7.cpp(38): warning C4715: binarySearch: значение возвращается не при всех путях выполнения
+  finalTest7.vcxproj -> C:\Users\User\source\repos\finalTest7\Debug\finalTest7.exe

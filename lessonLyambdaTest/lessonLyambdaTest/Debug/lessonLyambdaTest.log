@@ -1,0 +1,7 @@
+﻿  lessonLyambdaTest.cpp
+  The contents of <string_view> are available only with C++17 or later.
+C:\Users\User\source\repos\lessonLyambdaTest\lessonLyambdaTest\lessonLyambdaTest.cpp(56,28): error C3867: "std::array<Season,4>::begin": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\User\source\repos\lessonLyambdaTest\lessonLyambdaTest\lessonLyambdaTest.cpp(56,41): error C3867: "std::array<Season,4>::end": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\User\source\repos\lessonLyambdaTest\lessonLyambdaTest\lessonLyambdaTest.cpp(56,10): error C2672: "std::sort": не найдена соответствующая перегруженная функция
+C:\Users\User\source\repos\lessonLyambdaTest\lessonLyambdaTest\lessonLyambdaTest.cpp(57,64): error C2780: void std::sort(const _RanIt,const _RanIt): требует аргументов: 2, имеется: 3
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4357): message : см. объявление "std::sort"

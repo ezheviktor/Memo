@@ -1,0 +1,4 @@
+﻿  finalTest6.cpp
+C:\Users\User\source\repos\finalTest6\finalTest6\finalTest6.cpp(260): warning C4715: getCardValue: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\finalTest6\finalTest6\finalTest6.cpp(390): warning C4715: playBlackJack: значение возвращается не при всех путях выполнения
+  finalTest6.vcxproj -> C:\Users\User\source\repos\finalTest6\Debug\finalTest6.exe
